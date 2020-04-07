@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Unit 11 Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agnys560/notetakertron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agnys560/notetakertron/issues"
+  },
+  "homepage": "https://github.com/Agnys560/notetakertron#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "require-path": "^0.3.0"
+  }
+}
